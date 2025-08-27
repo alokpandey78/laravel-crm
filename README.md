@@ -16,3 +16,4 @@ npm install && npm run build
 cp .env.example .env
 php artisan migrate
 php artisan serve
+
