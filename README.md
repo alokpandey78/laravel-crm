@@ -1,4 +1,4 @@
-# Laravel CRM Clone
+# Laravel CRM Lite
 
 A simple **CRM Lite** built with Laravel 9 (PHP 8.0).  
 Features:
